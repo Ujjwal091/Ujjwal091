@@ -2,6 +2,8 @@
 🌟 **Flutter Developer | Spring Boot | Full Stack Problem Solver**  
 🚀 Crafting innovative solutions with beautiful UI and scalable backends.  
 
+💼 **Currently working at [Nuclei](https://gonuclei.com/) as an Associate System Engineer**  
+
 ---
 
 ## 🚀 Live Projects
@@ -14,26 +16,52 @@
 
 ## 🛠️ My Tech Stack
 
-**Frontend & Mobile Development:**  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)  
-![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=flat&logo=Android&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=Java&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=Kotlin&logoColor=white)  
- 
+### **Frontend & Mobile Development**
+<a href="https://flutter.dev" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter" />
+</a>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" width="40" height="40" alt="Android" />
+</a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="40" height="40" alt="Java" />
+</a>
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40" alt="Kotlin" />
+</a>
 
-**Backend:**  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=Spring-Boot&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-%231572B6.svg?style=flat&logo=Microservices&logoColor=white)
+### **Backend**
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring Boot" />
+</a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" height="40" alt="Node.js" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Microservices-%231572B6.svg?style=for-the-badge&logo=Microservices&logoColor=white" alt="Microservices"/>
+</a>
 
-**Databases:**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=PostgreSQL&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=MongoDB&logoColor=white)  
+### **Databases**
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" height="40" alt="PostgreSQL" />
+</a>
+<a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" height="40" alt="MongoDB" />
+</a>
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40" alt="MySQL" />
+</a>
 
-**Other Tools:**  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat&logo=Redis&logoColor=white)
+### **Other Tools**
+<a href="https://git-scm.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
+</a>
+<a href="https://www.docker.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" alt="Docker" />
+</a>
+<a href="https://redis.io" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" height="40" alt="Redis" />
+</a>
 
 ---
 
@@ -45,8 +73,9 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](YourLinkedInLink)  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white)](mailto:YourEmail)  
-
----
-
+<a href="https://www.linkedin.com/in/ujjwaljain091/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" alt="LinkedIn" />
+</a>
+<a href="mailto:ujjwaljai091@gamil.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" alt="Email" />
+</a>
