@@ -6,11 +6,37 @@
 
 ---
 
-## 🚀 Live Projects
-### 📱 [Rally Connect App](https://apps.apple.com/us/app/rally-connect-app/id6450603400)
-- 🏆 **Built with Flutter:** Intuitive UI and seamless performance.  
-- ⚙️ **Backend powered by Spring Boot:** Scalable and reliable architecture.  
-- ✅ Live on the [App Store](https://apps.apple.com/us/app/rally-connect-app/id6450603400)!  
+## 🚀 Live & Featured Projects
+
+### 📱 [Rally Care Suite](https://apps.apple.com/us/app/rally-connect-app/id6450603400)
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="30" height="30" alt="Flutter"/></a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="30" height="30" alt="Kotlin"/></a>
+- **Highlights:**  
+  - 🏆 **Built with Flutter & Kotlin:** Intuitive UI across four apps—Rally Connect, Rally CRM, Rally Factory & Rally Admin.  
+  - ⚙️ **Label printer SDK integration:** Real‑time label scanning & printing for hardware workflows.  
+  - 🔄 **Offline‑first ticketing (Rally CRM):** Local SQLite sync ensures seamless field‑technician operations.  
+  - 📊 **Analytics & coupon management:** REST APIs deliver live performance metrics, order tracking & promotions.  
+
+
+### 🛒 [DeliWish](https://play.google.com/store/apps/details?id=com.customer.deliwish)
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="30" height="30" alt="Flutter"/></a>  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="30" height="30" alt="Spring Boot"/></a>  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="30" height="30" alt="MongoDB"/></a>  <a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30" height="30" alt="Firebase"/></a> <a href="https://cashfree.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/25682196?s=200&v=4" width="30" height="30" alt="Cashfree"/></a>
+- **Highlights:**  
+    - 🏆 **Built with Flutter:** Clean‑architecture modules (catalog, cart, orders, profile).  
+    - ⚙️ **Backend powered by Spring Boot & MongoDB:** High‑throughput order processing.  
+    - 🔔 **Notifications & Payments:** Firebase Messaging & Cashfree integration. 
+
+<!-- ### 📊 Analyse Result  
+- **Tech:** Flutter • Python • Excel integration  
+- **Highlights:**  
+  - Windows application for logging and analyzing student results with 100% accuracy  
+  - Subject-wise, semester-wise, and alumni performance analysis  
+  - Customizable themes; <b>adopted by Kanpur Institute of Technology</b> for conferences and presentations -->
+
+### 📊 [Analyse Result](https://www.linkedin.com/posts/ujjwaljain091_flutter-flutterdeveloper-fluttercommunity-activity-7102029872004292608-ZCbL?utm_source=share&utm_medium=member_desktop&rcm=ACoAADeUPMIBftlzOC3yPGGqZoGuXa8OO26C2d0)
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="30" height="30" alt="Flutter"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="30" height="30" alt="Python"/></a> <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://res.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/excel_32x1.svg" width="30" height="30" alt="Excel"/></a>
+- **Highlights:**  
+  - 🖥️ **Windows app:** Logs and analyzes student results with 100% accuracy  
+  - 📈 **Detailed analytics:** Subject‑wise, semester‑wise & alumni performance dashboards  
+  - 🎨 **Custom themes & exports:** Adopted by Kanpur Institute of Technology for conferences/presentations  
 
 ---
 
