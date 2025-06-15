@@ -24,7 +24,7 @@
     - ⚙️ **Backend powered by Spring Boot & MongoDB:** High‑throughput order processing.  
     - 🔔 **Notifications & Payments:** Firebase Messaging & Cashfree integration. 
 
-### 🧾 [RI One (Rally Inventory)](https://apps.apple.com/in/app/ri-one/id6473343504)
+### 🧾 RI One (Rally Inventory)
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="30" height="30" alt="Flutter"/></a><a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30" height="30" alt="Firebase"/></a> 
 - **Highlights:**  
   - 🏢 **Multi-tenant architecture:** Supports multiple brands and business units under Rally International.  
