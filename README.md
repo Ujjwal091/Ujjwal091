@@ -24,12 +24,18 @@
     - ⚙️ **Backend powered by Spring Boot & MongoDB:** High‑throughput order processing.  
     - 🔔 **Notifications & Payments:** Firebase Messaging & Cashfree integration. 
 
-<!-- ### 📊 Analyse Result  
-- **Tech:** Flutter • Python • Excel integration  
+### 🧾 [RI One (Rally Inventory)](https://apps.apple.com/in/app/ri-one/id6473343504)
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="30" height="30" alt="Flutter"/></a><a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30" height="30" alt="Firebase"/></a> 
 - **Highlights:**  
-  - Windows application for logging and analyzing student results with 100% accuracy  
-  - Subject-wise, semester-wise, and alumni performance analysis  
-  - Customizable themes; <b>adopted by Kanpur Institute of Technology</b> for conferences and presentations -->
+  - 🏢 **Multi-tenant architecture:** Supports multiple brands and business units under Rally International.  
+  - 👥 **6 user roles:**.  
+  - 🏭 **Manufacturing operations tracking:** Monitors raw material usage, production flow, dispatch management, and stock availability.  
+  - 📦 **Inventory features:** Inward/outward management, BOM (Bill of Materials) support, GRNs, and inter-location stock movements.  
+  - 🔔 **Firebase Cloud Messaging:** Real-time notifications for task updates, stock alerts, and approvals.  
+  - 🧼 **Built with clean architecture:** Uses BLoC pattern and feature-based folder structure for scalable codebase.  
+  - 📱 **Developed in Flutter:** Responsive UI for tablets and rugged warehouse devices.
+
+
 
 ### 📊 [Analyse Result](https://www.linkedin.com/posts/ujjwaljain091_flutter-flutterdeveloper-fluttercommunity-activity-7102029872004292608-ZCbL?utm_source=share&utm_medium=member_desktop&rcm=ACoAADeUPMIBftlzOC3yPGGqZoGuXa8OO26C2d0)
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="30" height="30" alt="Flutter"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="30" height="30" alt="Python"/></a> <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://res.cdn.office.net/files/fabric-cdn-prod_20230815.002/assets/brand-icons/product/svg/excel_32x1.svg" width="30" height="30" alt="Excel"/></a>
